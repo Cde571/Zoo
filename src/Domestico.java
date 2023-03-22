@@ -13,7 +13,7 @@
         super(nombre, edad, especie, habitat);
         this.raza = raza;
         this.color= color;
-        this
+        this.peso=peso;
     // Métodos get y set
     public String getRaza() {
         return Raza;
