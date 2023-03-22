@@ -1,6 +1,6 @@
 
 class Animal {
-    private static String nombre;
+    private  String nombre;
     private int edad;
     private String especie;
     private String habitat;
