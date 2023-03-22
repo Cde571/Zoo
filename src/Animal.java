@@ -13,7 +13,7 @@ class Animal {
 
     }
 
-    public static String getNombre() {
+    public  String getNombre() {
         return nombre;
     }
 
