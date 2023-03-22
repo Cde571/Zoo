@@ -8,11 +8,12 @@
     private String color;
     private double peso;
            
-    public AnimalDomestico(String nombre, int edad, String especie, String habitat) {
+    public AnimalDomestico(String nombre, int edad, String especie, String habitat, String raza, String color, String peso) {
         super(nombre, edad, especie, habitat);
         this.raza = raza;
         this.color= color;
         this.peso=peso;
+    }
     // Métodos get y set
     public String getRaza() {
         return Raza;
