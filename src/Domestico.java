@@ -1,7 +1,6 @@
 
 
     public class Domestico extends Animal {
-       public class Domestico {
     // Atributos
    
     
